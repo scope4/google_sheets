@@ -54,7 +54,7 @@ function SCOPEGREEN(itemName, year, geography, metric, domain, numMatches, mode,
     }
   
     // API configuration
-    const API_BASE_URL = "https://lcabench-v1-main-3f150df.d2.zuplo.dev/api/metrics/search";
+    const API_BASE_URL = "https://scopegreen-main-1a948ab.d2.zuplo.dev/api/metrics/search";
     const API_KEY = "your-api-key";
   
     // Build the query parameters for the GET request
